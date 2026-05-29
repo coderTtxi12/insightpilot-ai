@@ -1,28 +1,6 @@
-# Natural Language Dashboard Generator
+# Natural Language Analytics Dashboard
 
-A production-ready AI-powered dashboard that transforms natural language queries into dynamic visualizations from restaurant analytics data. Built for the Clave Engineering Take-Home Assessment.
-
----
-
-## 🚀 Live Application
-
-**The application is live and ready for testing:**
-
-### 🌐 [**http://44.222.146.210:3000/**](http://44.222.146.210:3000/)
-
-You can test the full functionality including:
-- Natural language queries
-- Dynamic chart generation
-- Data analysis from restaurant analytics
-- Interactive dashboard features
-
-### 🎥 [**📹 Watch Video Demo - See the System in Action!**](https://www.loom.com/share/bc2633b33b2d4b648605fb7b9cc01ff7)
-
-**👀 Quick 2-minute walkthrough showing:**
-- Real-time natural language query processing
-- Dynamic visualization generation
-- The agentic coding loop in action
-- Complete user experience flow
+InsightPilot AI is a natural language analytics platform that lets business users ask questions in plain English and automatically generates executable Python code, database queries, and dynamic visualizations from structured business data.
 
 ---
 
@@ -711,7 +689,3 @@ This document contains:
 - Product mapping table for maintaining source-specific IDs
 - DoorDash merchant payout handling
 - Date/time field usage patterns
-
----
-
-**Built with ❤️ for Clave Engineering Assessment**
